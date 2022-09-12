@@ -9,7 +9,7 @@ box-sizing: border-box;
     width: 100%;
 }
 body{
-    background-color: black;
+    background-color:black;
 }
 nav{
     display: flex;
@@ -103,10 +103,6 @@ h4{
     top: 6px;
     right: 6px;
 }
-.about img{
-    height: auto;
-    width: 430px;
-}
 .about-text{
     width: 550px;
 }
@@ -150,4 +146,12 @@ button{
 button:hover{
     background-color: transparent;
     border: 2px solid
+}
+#suit{
+    margin-left: 60%; 
+    margin-right: 30%;
+    margin-top: -600px;
+    margin-bottom: 100px;
+    height: auto;
+    width: 700px;
 }
