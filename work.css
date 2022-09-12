@@ -1,0 +1,19 @@
+body{
+    background-image: url(wallpaper);
+    background-size: cover;
+}
+body h2{
+    color: whitesmoke;
+    font-size: medium;
+}
+body h3{
+    color: white;
+}
+h1{
+    color: white;
+}
+ul{color: white;
+}
+p{
+    color: antiquewhite;
+}

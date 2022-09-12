@@ -155,3 +155,17 @@ button:hover{
     height: auto;
     width: 700px;
 }
+.back {
+    background-color: #fff;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+.fa-facebook {
+    background: blue;
+    color: red;
+}
